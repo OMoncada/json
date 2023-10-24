@@ -1,128 +1,39 @@
 [
     {
-        "templeName": "Sentadillas",
-        "location": "Aba, Nigeria",
-        "dedicated": "2005, August, 7",
-        "area": 11500,
-        "imageUrl": "https://st.depositphotos.com/2334887/4814/i/450/depositphotos_48149385-stock-photo-beautiful-fitness-woman-working-out.jpg"
+      "exerciseName": "Sentadillas",
+      "location": "Resis",
+      "imageUrl": "https://images.hola.com/imagenes/estar-bien/20230321228386/hacer-ejercicio-fisico-aire-libre/1-221-528/mujer-ejercicio-calle-t.jpg?tx=w_680",
+      "description": "Las sentadillas son un ejercicio en el que te colocas de pie, doblas las rodillas y las caderas para bajar el cuerpo como si te estuvieras sentando en una silla, luego te levantas de nuevo. Son eficaces para fortalecer las piernas y los glúteos."
     },
     {
-        "templeName": "Abdominales",
-        "location": "Cedar City, Utah, United States",
-        "dedicated": "2017, December, 10",
-        "area": 42657,
-        "imageUrl": "https://i0.wp.com/pilicuadrado.com/wp-content/uploads/2014/06/crunch-abdominal1.jpg?w=550&ssl=1"
+      "exerciseName": "Abdominales",
+      "location": "Resis",
+      "imageUrl": "https://images.hola.com/imagenes/estar-bien/20230321228386/hacer-ejercicio-fisico-aire-libre/1-221-528/mujer-ejercicio-calle-t.jpg?tx=w_680",
+      "description": "Los abdominales son un ejercicio centrado en fortalecer los músculos del abdomen. Para realizarlos, típicamente te acuestas boca arriba, doblas las rodillas y colocas las manos detrás de la cabeza, luego levantas el torso hacia las rodillas y regresas a la posición inicial"
     },
     {
-        "templeName": "Manti Utah",
-        "location": "Manti, Utah, United States",
-        "dedicated": "1888, May, 21",
-        "area": 74792,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/manti-utah/400x250/manti-temple-768192-wallpaper.jpg"
+      "exerciseName": "Plancha abdominal",
+      "location": "Resis",
+      "imageUrl": "exercise3.jpg",
+      "description": "La plancha abdominal es un ejercicio en el que te apoyas en tus antebrazos y dedos de los pies, manteniendo tu cuerpo en línea recta desde la cabeza hasta los talones. Debes contraer los músculos del núcleo y mantener esta posición durante un período determinado para fortalecer los abdominales, la espalda baja y mejorar la estabilidad.."
     },
     {
-        "templeName": "Plancha Abdominal",
-        "location": "Payson, Utah, United States",
-        "dedicated": "2015, June, 7",
-        "area": 96630,
-        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/mid-adult-man-doing-plank-exercise-royalty-free-image-1585917009.jpg"
-    },
-    {
-        "templeName": "Levantarse de una silla",
-        "location": "Yigo, Guam",
-        "dedicated": "2020, May, 2",
-        "area": 6861,
-        "imageUrl": "data:image/png;base64,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"
-    },
-    {
-        "templeName": "Provo City Center",
-        "location": "Provo, Utah, United States",
-        "dedicated": "2016, March, 20",
-        "area": 85084,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/provo-city-center/400x250/provo-city-center-temple-1572517-wallpaper.jpg"
-    },
-    {
-        "templeName": "Provo Utah",
-        "location": "Provo, Utah, United States",
-        "dedicated": "1972, February, 9",
-        "area": 130825,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/provo-utah/400x250/provo-temple-lds-890642-wallpaper.jpg"
-    },
-    {
-        "templeName": "Winter Quarters Nebraska",
-        "location": "Florence, Nebraska, United States",
-        "dedicated": "2001, April, 22",
-        "area": 16000,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/winter-quarters-nebraska/400x250/winter-quarters-nebraska-temple-detail-772766.jpg"
-    },
-    {
-        "templeName": "Salt Lake",
-        "location": "Salt Lake City, Utah, United States",
-        "dedicated": "1893, April, 6",
-        "area": 403000,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/salt-lake-city-utah/2018/400x250/slctemple5.jpg"
-    },
-    {
-        "templeName": "The Hague Netherlands",
-        "location": "Zoetermeer, Netherlands",
-        "dedicated": "2019, September, 8",
-        "area": 10500,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/the-hague-netherlands/2019/400x250/3-hague-netherlands-temple-1088316.jpg"
-    },
-    {
-        "templeName": "St. George Utah",
-        "location": "St. George, Utah, United States",
-        "dedicated": "1877, April, 6",
-        "area": 142000,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/st-george-utah/1280x800/st-george-temple-lds-149536-wallpaper.jpg"
-    },
-    {
-        "templeName": "Washington D.C.",
-        "location": "Kensington, Maryland, United States",
-        "dedicated": "1974, November, 19",
-        "area": 156558,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/washington-dc/400x250/washington_dc_temple-exterior-2.jpeg"
-    },
-    {
-        "templeName": "Jordan River Utah",
-        "location": "South Jordan, Utah, United States",
-        "dedicated": "1981, November, 16",
-        "area": 148236,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/jordan-river-utah/400x250/CWD_f5579d41-7344-4498-a589-4017ba5fcc91.jpg"
-    },
-    {
-        "templeName": "Barranquilla Colombia",
-        "location": "Barranquilla, Colombia",
-        "dedicated": "2018, December, 9",
-        "area": 25300,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/barranquilla-colombia/400x250/2-Barranquilla-Columblia-Temple-2135201.jpg"
-    },
-    {
-        "templeName": "Lima Perú",
-        "location": "Lima, Perú",
-        "dedicated": "1986, January, 10",
-        "area": 9600,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/lima-peru/400x250/lima-peru-temple-evening-1075606-wallpaper.jpg"
-    },
-    {
-        "templeName": "Logan Utah",
-        "location": "Logan, Utah, United States",
-        "dedicated": "1884, May, 17",
-        "area": 119619,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/logan-utah/400x250/logan-temple-768119-wallpaper.jpg"
-    },
-    {
-        "templeName": "Vernal Utah",
-        "location": "Vernal, Utah, United States",
-        "dedicated": "1997, November, 2",
-        "area": 38771,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/vernal-utah/400x250/vernal-temple-lds-82531-wallpaper.jpg"
-    },
-    {
-        "templeName": "Mexico City Mexico",
-        "location": "Mexico City, Mexico",
-        "dedicated": "1983, December, 2",
-        "area": 116642,
-        "imageUrl": "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/mexico-city-mexico/400x250/mexico-city-temple-exterior-1518361-wallpaper.jpg"
-    }
-]
+        "exerciseName": "Levantarse de una silla",
+        "location": "Resis",
+        "imageUrl": "https://images.hola.com/imagenes/estar-bien/20230321228386/hacer-ejercicio-fisico-aire-libre/1-221-528/mujer-ejercicio-calle-t.jpg?tx=w_680",
+        "description": "Siéntese en una silla con brazos, con los pies separados y alineados con los hombros. Con los pies firmes sobre el suelo y la espalda y hombros rectos, levántese de la silla sin apoyarse en los brazos. En caso de que le resulte difícil, hágalo con la ayuda de los apoyabrazos de la silla. Mantenga la posición por 1 segundo y repita este movimiento de 8 a 15 veces."
+      },
+      {
+        "exerciseName": "Flexión de los brazos",
+        "location": "Resis",
+        "imageUrl": "https://images.hola.com/imagenes/estar-bien/20230321228386/hacer-ejercicio-fisico-aire-libre/1-221-528/mujer-ejercicio-calle-t.jpg?tx=w_680",
+        "description": "De pie o en sentado, sostenga las pesas hacia abajo, a ambos costados, y doble lentamente los codos levantando las pesas hacia el pecho. Mantenga la posición por 1 segundo y repita este movimiento de 8 a 15 veces"
+      },
+      {
+        "exerciseName": "Flexión de las rodillas",
+        "location": "Resis",
+        "imageUrl": "exercise3.jpg",
+        "description": "Con este ejercicio fortalecemos los músculos de la parte posterior del muslo. Primero, apóyese en el respaldo de una silla para mantener el equilibrio. Doblando la rodilla hacia atrás, suba y baje lentamente la pierna. Repita este movimiento con la otra pierna. Se recomienda alternar las piernas hasta hacer de 8 a 15 repeticiones. Si lo desea puede usar pesas en el tobillo."
+      }
+  ]
+  
